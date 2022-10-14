@@ -1,4 +1,8 @@
 1.cabeza
+
+Tiene orejas largas
+
+
 2.cola
 3.alas
 4.patas
