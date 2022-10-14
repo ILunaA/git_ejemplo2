@@ -1,0 +1,4 @@
+1.cabeza
+2.cola
+3.alas
+4.patas
